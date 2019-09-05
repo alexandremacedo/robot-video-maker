@@ -1,0 +1,24 @@
+{
+  "name": "robot-video-maker",
+  "version": "1.0.0",
+  "description": "Projeto open source para fazer videos automatizados",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AlexandreMacedoo/robot-video-maker.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AlexandreMacedoo/robot-video-maker/issues"
+  },
+  "homepage": "https://github.com/AlexandreMacedoo/robot-video-maker#readme",
+  "dependencies": {
+    "algorithmia": "^0.3.10",
+    "readline-sync": "^1.4.9",
+    "sbd": "^1.0.14"
+  }
+}
